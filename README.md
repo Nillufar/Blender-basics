@@ -13,7 +13,7 @@ Step 1
    - Blender is compatible with all major operating systems.
 
   Step 2
-  For Windows
+  (For Windows)
 1. Run the Installer:
    - Once the download is complete, locate the downloaded installer file (usually a .exe file) and double-click on it to run the installer.
 2. Complete Installation:
