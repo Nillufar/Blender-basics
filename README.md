@@ -7,7 +7,7 @@ Step by Step guide for Blender.
 # Installation Guide for Blender:
 Step 1
 1. Visist a the Blender website:
-   - https://www.blender.org/download/
+ - https://www.blender.org/download/
 Step 2 
  1. Select your oparating system:
    - (Windows, macOS, or Linux)
