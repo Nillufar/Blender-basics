@@ -4,10 +4,6 @@ Step by Step guide for Blender.
 
 ![Best-Free-Online-Blender-3D-Courses](https://github.com/Nillufar/Blender-basics/assets/143571318/fa79b66d-2ffe-421e-8277-562207628d4d)
 
-![blender_logo](https://github.com/Nillufar/Blender-basics/assets/143571318/583f4101-2d7c-4f64-9b58-bf1965148162)
-
-
-
 # Installation Guide for Blender:
 Step 1
 1. Visist a the Blender website:
