@@ -42,4 +42,4 @@ Step 3
   - If you installed Blender on Linux, open a terminal, navigate to the Blender directory, and run the blender command.
 
 Step 4
-  - Congratulations! You've successfully installed Blender. Take some time to explore the interface and start creating amazing 3D art and animations.
+  - Congratulations! You've successfully installed Blender, take some time to explore the interface and start creating amazing 3D art and animations.
